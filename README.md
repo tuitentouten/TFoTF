@@ -5,8 +5,6 @@
 
 3_ Execute the scripts in the 'sample/steps/' directory in numerical order by file name. Before running each script, make sure you have set the correct workdir.
 
-4_ For the first time use, remove all example files exist in 'sample/sources/out/'.
-
 
 3_1 1_AiA_creation.py: Calculate the expression correlation of a given TF with other genes, based on the gene expression data.
 
@@ -19,3 +17,6 @@
 3_5 5_TF_pwm_tagets_caculator.py: Collation and statistics of the pan-cancer PWM score obtained from 4_ calculation.
 
 3_6 6_predict_result_creator.py: Set personalized cut-offs and obtain predict results.
+
+
+4_ For the first time use, remove all example files exist in 'sample/sources/out/'.
