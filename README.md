@@ -1,5 +1,5 @@
 # TFoTF
-1_ Download and uncompress TFoTF-main. Copy 'TFoTF-main/sample' to a certain directory, for example, 'F:/sample'.
+1_ Download and uncompress 'TFoTF-main'. Copy 'TFoTF-main/sample' to a certain directory, for example, 'F:/sample'.
 
 2_ Download and uncompress 'sources' from https://drive.google.com/file/d/1n0tFE3Mc_7MTmztgOwxG-CMXtRjpQW_g/view?usp=sharing. Uncompress and copy 'sources' to 'sample/'.
 
