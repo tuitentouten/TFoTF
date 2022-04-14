@@ -1,9 +1,11 @@
 # TFoTF
 1_ Download and uncompress TFoTF-main. Copy 'TFoTF-main/sample' to a certain directory, for example, 'F:/sample'.
 
-2_ Download and uncompress 'sources' from 
+2_ Download and uncompress 'sources' from https://drive.google.com/file/d/1n0tFE3Mc_7MTmztgOwxG-CMXtRjpQW_g/view?usp=sharing. Uncompress and copy 'sources' to 'sample/'.
 
 3_ Execute the scripts in the 'sample/steps/' directory in numerical order by file name. Before running each script, make sure you have set the correct workdir.
+
+4_ For the first time use, remove all example files exist in 'sample/sources/out/'.
 
 
 3_1 1_AiA_creation.py: Calculate the expression correlation of a given TF with other genes, based on the gene expression data.
